@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WikipediaSearch</string>
+    <string name="search">Search Wikipedia...</string>
+    <string name="clear_history">Clear history</string>
+    <string name="no_history">Search history is empty!</string>
+    <string name="no_data_found">No data found</string>
+    <string name="no_network">Something went wrong or unable to reach server</string>
+    <string name="no_result">No Result found</string>
+    <string name="internet_error">Please check your internet connection!</string>
+</resources>
